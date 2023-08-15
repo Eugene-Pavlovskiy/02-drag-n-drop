@@ -1,3 +1,4 @@
-# marathon-js-frontend-vladilenminin
+# marathon-js-frontend
 
-- Создан репозиторий `02-drag-n-drop`.
+- The `02-drag-n-drop` repository has been created.
+- Pure Javascript.
